@@ -1,0 +1,6 @@
+0 qq           |ww                              |ee                              |rr                              |tt          |yy                                           |uu                              |ii        |o|1
+1 aa           |ss                              |dd                              |ff                              |gg          |hh                                           |jj                              |kk        |l|2
+2 bb           |zz                              |xx                              |cc                              |vv          |bb                                           |uu                              |nn        |m|3
+3 bb           |ww                              |ee                              |rr                              |tt          |yy                                           |uu                              |ii        |o|8
+4 ff           |ww                              |ee                              |rr                              |tt          |yy                                           |uu                              |ii        |o|7
+5 mm           |ww                              |ee                              |rr                              |tt          |yy                                           |uu                              |ii        |o|6

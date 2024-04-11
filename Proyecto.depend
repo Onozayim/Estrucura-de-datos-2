@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1679862891 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	"tienda.h"
+	"AllContribuyentes.h"
+
+1679104431 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\listaestatica.cpp
+
+1679802156 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\producto.cpp
+	"producto.h"
+	"fstream"
+	"iostream"
+
+1679104482 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\producto.h
+	<iostream>
+
+1679117189 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\tienda.cpp
+	"tienda.h"
+	<algoritmos.h>
+	<fstream>
+	<string>
+
+1679104560 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\tienda.h
+	"producto.h"
+	"ListaEstatica.h"
+	<fstream>
+
+1679861747 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\listaestatica.h
+	<iostream>
+	<stdexcept>
+
+1679862217 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\algoritmos.h
+	<ListaEstatica.h>
+	"IndiceSecundario.h"
+	"stIndiceRfc.h"
+	"list"
+	"string.h"
+
+1679805236 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\algoritmos.cpp
+
+1679107022 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\indiceprimario.cpp
+	"IndicePrimario.h"
+
+1679107073 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\indiceprimario.h
+	<ListaEstatica.h>
+	<stIndiceRfc.h>
+
+1679117734 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\stindicerfc.h
+	<iostream>
+	<fstream>
+
+1679855161 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\stindicerfc.cpp
+	"stIndiceRfc.h"
+	"iostream"
+	"string.h"
+
+1679857503 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\allcontribuyentes.h
+	"ListaEstatica.h"
+	"Contribuyente.h"
+	"stIndiceRfc.h"
+	"Algoritmos.h"
+	"IndiceSecundario.h"
+
+1679856304 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\contribuyente.h
+	"iostream"
+	"fstream"
+
+1679863229 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\contribuyente.cpp
+	"Contribuyente.h"
+	"string.h"
+
+1679863556 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\allcontribuyentes.cpp
+	"AllContribuyentes.h"
+	"Contribuyente.h"
+	"stIndiceRfc.h"
+	"string"
+	<iostream>
+	"Algoritmos.h"
+	"string.h"
+
+1679850389 c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\include\indicesecundario.h
+	"ListaEstatica.h"
+	"iostream"
+	"fstream"
+	"list"
+	"stIndiceRfc.h"
+
+1679858978 source:c:\users\camilo montes de oca\documents\cucei\2  semestre\ed2\proyecto\src\indicesecundario.cpp
+	"IndiceSecundario.h"
+	"string.h"
+	"iostream"
+	"stIndiceRfc.h"
+

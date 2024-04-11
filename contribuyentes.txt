@@ -1,0 +1,3 @@
+0 qq           |ww                              |ee                              |rr                              |tt          |yy                                           |uu                              |ii        |o|1
+1 aa           |ss                              |dd                              |ff                              |gg          |hh                                           |uu                              |kk        |l|2
+2 bb           |ww                              |ee                              |rr                              |tt          |yy                                           |aa                              |ii        |o|7
